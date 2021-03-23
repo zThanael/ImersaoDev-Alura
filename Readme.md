@@ -5,4 +5,8 @@
 <h4><li> Exibir o resultado da conversão na tela, no lugar da função alert.</li></blockquote></h4>
 <br>
 <blockquote align=center>Link para a resolução do desafio através do codepen               
-<a href='https://codepen.io/zThanael/pen/WNRNvzL'> <b>Clique aqui</b> </a> <blockquote>
+<a href='https://codepen.io/zThanael/pen/WNRNvzL'> <b>Clique aqui</b> </a> <br>
+Imagem da tela 
+<img src="TelaDesafio1.png" alt="Tela do exercicio" width="100px"/><blockquote>
+
+

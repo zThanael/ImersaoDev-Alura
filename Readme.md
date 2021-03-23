@@ -6,7 +6,7 @@
 <br>
 <blockquote align=center>Link para a resolução do desafio através do codepen               
 <a href='https://codepen.io/zThanael/pen/WNRNvzL'> <b>Clique aqui</b> </a> <br>
-Imagem da tela 
-<img src="TelaDesafio1.png" alt="Tela do exercicio" width="100px"/><blockquote>
+Imagem da tela <br>
+<img src="TelaDesafio1.png" alt="Tela do exercicio" width="250px"/><blockquote>
 
 

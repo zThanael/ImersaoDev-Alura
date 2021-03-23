@@ -1,4 +1,5 @@
 <h1> Projeto para Acompanhar a ImersãoDev da Alura <hr> </h1>
+<img src="https://pbs.twimg.com/media/Ew2IY6LWgAQceX4.jpg" alt="Capa" width="100%" height='300px'/>
 <blockquote align=center>  Repositorio com a resolução dos desafios propostos na Imersão. </blockquote> </center>
 <h2> Desafio 1 <br>
 <h4><li> Criar um programa que converta libra em dolar.</li></blockquote></h4>

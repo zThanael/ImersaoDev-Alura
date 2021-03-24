@@ -8,16 +8,17 @@
 <h4><li> Criar um programa que converta libra em dolar.</li></h4>
 <h4><li> Exibir o resultado da conversão na tela, no lugar da função alert.</li></h4>
 <br>
-<blockquote align=center>Link para a resolução do desafio através do Codepen <b><a href='https://codepen.io/zThanael/pen/WNRNvzL'> Clique aqui </a></b> <br> <i> Imagem da tela <i> <br>  <img src="TelaDesafio1.png" alt="Tela do exercicio" width="400px"/><blockquote>
+<blockquote align=center>Link para a resolução do desafio através do Codepen  <blockquote>
+<blockquote align=center> <b><a href='https://codepen.io/zThanael/pen/WNRNvzL'> Clique aqui </a></b> <br> <blockquote>
+<blockquote align=center> <i> Imagem da tela <i> <br>  <img src="TelaDesafio1.png" alt="Tela do exercicio" width="400px"/><blockquote>
+
 <br> 
 
 <h2> Desafio 2: Adivinhe o campeão League of Legends </h2><br> 
 <h4><li> Exibir algo na tela e pedir para o usuario escrever o nome desse objeto.</li></h4>
 <h4><li> Exibir se acertou ou errou o nome.</li></h4>
 <br>
-<blockquote align=center>Link para a resolução do desafio através do Codepen  
-<b><a href='https://codepen.io/zThanael/pen/abpzjBm'> Clique aqui </a></b> <br>
-<i> Imagem da tela <i> <br>  <img src="TelaDesafio2.png" alt="Tela do exercicio" width="400px"/><blockquote>
-
-
+<blockquote align=center>Link para a resolução do desafio através do Codepen  <blockquote>
+<blockquote align=center> <b><a href='https://codepen.io/zThanael/pen/abpzjBm'> Clique aqui </a></b> <br> <blockquote>
+<blockquote align=center> <i> Imagem da tela <i> <br>  <img src="TelaDesafio2.png" alt="Tela do exercicio" width="400px"/><blockquote>
 

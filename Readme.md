@@ -14,3 +14,12 @@
 <br> 
 
 <h2> Desafio 2: Adivinhe o campeão League of Legends </h2><br> 
+<h4><li> Exibir algo na tela e pedir para o usuario escrever o nome desse objeto.</li></></h4>
+<h4><li> Exibir se acertou ou errou o nome.</li></blockquote></h4>
+<br>
+<blockquote align=center>Link para a resolução do desafio através do Codepen  
+<b><a href='https://codepen.io/zThanael/pen/abpzjBm'> Clique aqui </a></b> <br>
+<i> Imagem da tela <i> <br>  <img src="TelaDesafio2.png" alt="Tela do exercicio" width="400px"/></blockquote align=center>
+
+
+

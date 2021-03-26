@@ -29,4 +29,14 @@
 <b><a href='https://codepen.io/zThanael/pen/ExZPPRX'> Clique aqui </a></b> <br>
 <i> Imagem da tela <i> <br>  <img src="TelaDesafio3.png" alt="Tela do exercicio" width="400px"/></blockquote align=center>
 
+<h2> Desafio 4: Selecionador de Filme </h2> 
+<h4><li> Criar uma array adicional com o nome dos filmes e trabalhar com as duas ao mesmo tempo, unindo imagens e textos através dos índices;</li></h4>
+<h4><li> Exibir um prompt() com uma lista de filmes e exibir na tela somente o filme escolhido pelo usuário através do prompt;</li></blockquote></h4>
+<h4><li> Continuando o desafio acima, como fazer com que um filme só seja exibido uma vez?</li></blockquote></h4>
+<br>
+<blockquote align=center>Link para a resolução do desafio através do Codepen  
+<b><a href='https://codepen.io/zThanael/pen/rNjeLwo'> Clique aqui </a></b> <br>
+<i> Imagem da tela <i> <br>  <img src="TelaDesafio4.png" alt="Tela do exercicio" width="400px"/></blockquote align=center>
+
+
 

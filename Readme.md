@@ -21,5 +21,12 @@
 <b><a href='https://codepen.io/zThanael/pen/abpzjBm'> Clique aqui </a></b> <br>
 <i> Imagem da tela <i> <br>  <img src="TelaDesafio2.png" alt="Tela do exercicio" width="400px"/></blockquote align=center>
 
+<h2> Desafio 3: Adivinhe qual elemento será super efetivo contra este pokemon </h2> 
+<h4><li> Alterar o math.random() para funcionar com outros intervalos entre números.</li></h4>
+<h4><li> Modifique o cenário do mentalista e adicione mecanismos de chances, pontos e etc!.</li></blockquote></h4>
+<br>
+<blockquote align=center>Link para a resolução do desafio através do Codepen  
+<b><a href='https://codepen.io/zThanael/pen/ExZPPRX'> Clique aqui </a></b> <br>
+<i> Imagem da tela <i> <br>  <img src="TelaDesafio3.png" alt="Tela do exercicio" width="400px"/></blockquote align=center>
 
 

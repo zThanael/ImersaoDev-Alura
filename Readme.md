@@ -38,5 +38,13 @@
 <b><a href='https://codepen.io/zThanael/pen/rNjeLwo'> Clique aqui </a></b> <br>
 <i> Imagem da tela <i> <br>  <img src="TelaDesafio4.png" alt="Tela do exercicio" width="400px"/></blockquote align=center>
 
+<h2> Desafio 5: Selecionador de Trailer </h2> 
+<h4><li> Substituir o pôster de cada filme pelo trailer. Dica: pesquisem pela opção embed no menu de compartilhamento do YouTube;</li></h4>
+<h4><li> Estudar o innerHTML e a função que está criando a lista de pôsters. Como o código funciona para adicionar filmes sem utilizar array?</li></blockquote></h4>
+<h4><li> Criar a função validaFilme() que faça somente a verificação que está sendo feita no if.</li></blockquote></h4>
+<br>
+<blockquote align=center>Link para a resolução do desafio através do Codepen  
+<b><a href='https://codepen.io/zThanael/pen/abpmNLW'> Clique aqui </a></b> <br>
+<i> Imagem da tela <i> <br>  <img src="TelaDesafio5.png" alt="Tela do exercicio" width="400px"/></blockquote align=center>
 
 

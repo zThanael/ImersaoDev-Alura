@@ -47,4 +47,12 @@
 <b><a href='https://codepen.io/zThanael/pen/abpmNLW'> Clique aqui </a></b> <br>
 <i> Imagem da tela <i> <br>  <img src="TelaDesafio5.png" alt="Tela do exercicio" width="400px"/></blockquote align=center>
 
+<h2> Desafio 6: Tabela de Classificações </h2> 
+<h4><li> Incluir uma imagem na linha de cada jogador;</li></h4>
+<h4><li> Um botão que adiciona um novo jogador na tabela de classificação.</li></blockquote></h4>
+<br>
+<blockquote align=center>Link para a resolução do desafio através do Codepen  
+<b><a href='https://codepen.io/zThanael/pen/gOgwRRO'> Clique aqui </a></b> <br>
+<i> Imagem da tela <i> <br>  <img src="TelaDesafio6.png" alt="Tela do exercicio" width="400px"/></blockquote align=center>
+
 

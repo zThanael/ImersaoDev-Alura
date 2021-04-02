@@ -61,6 +61,6 @@
 <br>
 <blockquote align=center>Link para a resolução do desafio através do Codepen  
 <b><a href='https://codepen.io/zThanael/pen/abppyWQ'> Clique aqui </a></b> <br>
-<i> Imagem da tela <i> <br>  <img src="TelaDesafio7.png" alt="Tela do exercicio" width="400px"/>
+<i> Imagem da tela <i> <br>  <img src="TelaDesafio7.png" alt="Tela do exercicio" width="400px"/> <br> 
 <i> Para uma melhor visualização veja pelo modo <b>Full Page View</b> do code pen clicando em <b> Change View </b></blockquote align=center>
 

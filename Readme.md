@@ -55,4 +55,11 @@
 <b><a href='https://codepen.io/zThanael/pen/gOgwRRO'> Clique aqui </a></b> <br>
 <i> Imagem da tela <i> <br>  <img src="TelaDesafio6.png" alt="Tela do exercicio" width="400px"/></blockquote align=center>
 
+<h2> Desafio 7: Super Trunfo </h2> 
+<h4><li> Exibir a carta do jogador e da máquina na tela. </li></h4>
+<h4><li> Adicionar uma imagem em cada carta. </li></blockquote></h4>
+<br>
+<blockquote align=center>Link para a resolução do desafio através do Codepen  
+<b><a href='https://codepen.io/zThanael/pen/abppyWQ'> Clique aqui </a></b> <br>
+<i> Imagem da tela <i> <br>  <img src="TelaDesafio7.png" alt="Tela do exercicio" width="400px"/></blockquote align=center>
 

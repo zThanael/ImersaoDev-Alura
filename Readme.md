@@ -55,10 +55,12 @@
 <b><a href='https://codepen.io/zThanael/pen/gOgwRRO'> Clique aqui </a></b> <br>
 <i> Imagem da tela <i> <br>  <img src="TelaDesafio6.png" alt="Tela do exercicio" width="400px"/></blockquote align=center>
 
-<h2> Desafio 7 e Desafio 8: Super Trunfo </h2> 
+<h2> Desafio 7, 8 e 9 : Super Trunfo </h2> 
 <h4><li> Exibir a carta do jogador e da máquina na tela. </li></h4>
 <h4><li> Adicionar uma imagem em cada carta. </li></h4>
 <h4><li> Criar novas cartas com imagens e atributos diferentes.</li></h4>
+<h4><li> Crie uma carta super trunfo invencível;</li></h4>
+<h4><li> Crie uma carta super trunfo invencível;</li></h4>
 <br>
 <blockquote align=center>Link para a resolução do desafio através do Codepen  
 <b><a href='https://codepen.io/zThanael/pen/abppyWQ'> Clique aqui </a></b> <br>
@@ -70,7 +72,7 @@
 <br>
 <blockquote align=center>Link para a resolução do desafio através do Codepen  
 <b><a href='https://codepen.io/zThanael/pen/oNBwOBp'> Clique aqui </a></b> <br>
-<i> Imagem da tela <i> <br>  <img src="Certificado.png" alt="Tela do exercicio" width="600px"/> <br> 
-<i> Para uma melhor visualização veja pelo modo <b>Full Page View</b> do code pen clicando em <b> Change View </b></blockquote align=center>
+<i> Imagem da tela <i> <br>  <img src="Certificado.png" alt="Tela do exercicio" width="600px"/> 
+</blockquote align=center>
 
 
